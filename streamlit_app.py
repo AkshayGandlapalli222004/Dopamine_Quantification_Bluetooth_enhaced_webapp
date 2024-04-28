@@ -5,7 +5,7 @@ from io import StringIO #to read data files as .csv correctly
 import os #to work with files
 
 # Streamlit main page configuration
-st.set_page_config(page_title="MAIT 21/22 Data Analytics Dashboard",
+st.set_page_config(page_title="Dopamine Quantification via Bluetooth Enahced Biosensors",
                     page_icon=None,
                     layout="wide",
                     initial_sidebar_state="expanded",
